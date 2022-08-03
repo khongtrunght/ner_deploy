@@ -1,0 +1,11 @@
+datasets==2.3.2
+fastapi==0.78.0
+numpy==1.21.5
+pytorch_crf==0.7.2
+pytorch_lightning==1.6.4
+scikit_learn
+torch==1.11.0
+torchcrf==1.1.0
+uvicorn==0.17.6
+vncorenlp==1.0.3
+wandb==0.12.19

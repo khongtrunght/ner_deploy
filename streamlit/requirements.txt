@@ -1,0 +1,4 @@
+requests==2.27.1
+watchdog
+st_annotated_text==3.0.0
+streamlit==1.10.0

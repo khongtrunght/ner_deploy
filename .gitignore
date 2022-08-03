@@ -1,0 +1,6 @@
+test-ner/
+*.ipynb
+transformers/
+**/*.pyc
+fastapi/transformers/
+fastapi/vncorenlp/
